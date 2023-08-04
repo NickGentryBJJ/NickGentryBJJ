@@ -34,7 +34,7 @@ I really love working.  For 2 years i maintained two jobs recieving promotions a
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <p/>
 
-### Find me here!
+## Find me here!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicholas-gentry-2721451b2/"> 
