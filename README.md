@@ -17,7 +17,7 @@ I really love working.  For 2 years i maintained two jobs recieving promotions a
   Being located near the Silicon Valley, I have always pondered the idea of getting into tech.  My brother showed me App Academy which immediately sparked my interest.  I decided to attend their most challenging program and make the transition into a career in SWE.  Between my past work experience and my academic career at App Academy, I beleive I will be an extremely valuable asset to any company that hires me. 
 
 ## During App Academy
-  I built many projects but these are the 3 I am most proud of... <a href="https://nickgentrybjj.github.io/Pick_Your_Poison/">🥋 vanilla JavaScript UFC Statistic Data Visualizer</a>, a <a href="https://ezconnex.onrender.com/">  Rails/React fullstack app</a>, and a <a href="https://myfridge-tkk4.onrender.com/login"> 🍜 team-based MERN fullstack app</a>
+  I built many projects but these are the 3 I am most proud of... <a target="_blank" href="https://nickgentrybjj.github.io/Pick_Your_Poison/">🥋 vanilla JavaScript UFC Statistic Data Visualizer</a>, a <a target="_blank" href="https://ezconnex.onrender.com/">  Rails/React fullstack app</a>, and a <a target="_blank" href="https://myfridge-tkk4.onrender.com/login"> 🍜 team-based MERN fullstack app</a>
 
 ### These are the languages I use to build projects!
 
