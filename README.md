@@ -11,7 +11,7 @@
   While still in high school I began working full time at a warehouse where i would eventually be promoted to manager.  My boss/co-workers quickly noticed my work ethic and ability to make impactful decisions which made them realize although I was young, I was a great leader.
 
 #### I am no stranger to hard work.
-I really love working.  For 2 years i maintained two jobs recieving promotions at both.  My second job promoted me within 4 months of my start date.  When i was eventually laid off due to COVID-19, I swiftly found another second job to keep the grind going! 
+I really love working.  For 2 years i maintained two jobs recieving promotions at both.  My second job promoted me within 4 months of my start date.  When the restaurant was shut down after COVID-19, I swiftly found another second job to keep the grind going! 
   
 ### After 6 years of working with the same company i decided it was time for a change.
   Being located near the Silicon Valley, I have always pondered the idea of getting into tech.  My brother showed me App Academy which immediately sparked my interest.  I decided to attend their most challenging program and make the transition into a career in SWE.  Between my past work experience and my academic career at App Academy, I beleive I will be an extremely valuable asset to any company that hires me. 
