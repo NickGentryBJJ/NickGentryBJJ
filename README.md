@@ -19,6 +19,10 @@ I really love working.  For 2 years I maintained two jobs recieving promotions a
 ## During App Academy
   I built many projects but these are the 3 I am most proud of... <a target="_blank" href="https://nickgentrybjj.github.io/Pick_Your_Poison/">🥋 vanilla JavaScript UFC Statistic Data Visualizer</a>, a <a target="_blank" href="https://ezconnex.onrender.com/">  Rails/React fullstack app</a>, and a <a target="_blank" href="https://myfridge-tkk4.onrender.com/login"> 🍜 team-based MERN fullstack app</a>
 
+## After App Academy
+  I was recently hired as a private Web Developer for <a target="_blank" href="https://nickgentrybjj.github.io/CalAutoTech/">Cal Auto Tech<a/>, a specialized rim repair service seeking an online presence. I provided them with a user-friendly webpage detailing their services. Feel free to explore the <a target="_blank" href="https://nickgentrybjj.github.io/CalAutoTech/">live web page!<a/>
+Currently, I'm seeking opportunities to build websites for more local small businesses. If you or someone you know could benefit from a professional online presence, don't hesitate to reach out!
+
 ### These are the languages I use to build projects!
 
 <p align="center">
