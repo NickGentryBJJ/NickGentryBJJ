@@ -1,8 +1,8 @@
 ## Welcome to my Github! 👋
 
-- 🔭 I’m a Software Engineer specializing in Ruby on Rails and React Redux
+- 🔭 I’m a Software Engineer specializing in Ruby on Rails and React.js
+- 🌱 Freelance web developer specializing in crafting custom websites for local small businesses.
 - 👨‍🎓 I graduated from App Academy's in person, 16 week full stack engineer boot camp
-- 🌱 I’m currently working on crafting a talent scheduling application tailored for a vibrant bar & grill setting.
 - 👯 I always enjoy working together and helping others
 - 🥋 Fun fact: I am a competitive purple belt in Brazilian Jiu-Jitsu
 
